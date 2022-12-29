@@ -5,4 +5,4 @@
 Few elements components:
 <li>Snake length</li>
 <li>Food types (Reward/Damage)</li>
-<li>Scoreboards/li>
+<li>Scoreboards</li>
