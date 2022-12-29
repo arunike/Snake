@@ -154,6 +154,7 @@ def main():
                                             SIZE - LINE_WIDTH * 2, SIZE - LINE_WIDTH * 2), 0)
 
         print_text(screen, font1, 30, 7, f'Speed: {score // 100}')
+        print_text(screen, font1, 150, 7, f'Press Enter to start')
         print_text(screen, font1, 450, 7, f'Score: {score}')
 
         if game_over: ## If the game is over
